@@ -1,4 +1,4 @@
-# Apple Products Data Analysis
+# iPhone-Sales-Analysis
 
 ![Apple-Products-on-rental-sales-blog-banner-oct-858x370](https://github.com/user-attachments/assets/85739e9d-2227-4fa1-9665-b708cd923fc3)
 
